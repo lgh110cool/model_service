@@ -1,7 +1,7 @@
 # model_service
 web API
 
-![image](https://github.com/Stonesusu/model_service/blob/master/pic1.png?raw=true)
+![image](https://github.com/Stonesusu/model_service/blob/master/pic/pic1.png?raw=true)
 
 上述json会报错，修改如下：
 {
